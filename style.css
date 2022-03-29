@@ -71,6 +71,7 @@
   margin: 10px;
   letter-spacing: 0.65px;
   padding: 15px 20px 15px 20px;
+  display: inline-block;
   box-shadow: 0px 8px 9px 0px rgba(0,0,0,0.08);
 }
 .img_link img{
@@ -78,6 +79,7 @@
 }
 .img_link span{
   margin-left:10px;
+  vertical-align: middle;
 }
 .play_store{
   border:2px solid #3e3e3e;
